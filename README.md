@@ -1,1 +1,1 @@
-# AgroMarketplace-AI
+Archivo README con instrucciones completas.
